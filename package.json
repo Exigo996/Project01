@@ -1,0 +1,42 @@
+{
+  "name": "project01",
+  "version": "1.0.0",
+  "description": "testProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exigo996/Project01.git"
+  },
+  "keywords": [
+    "p01"
+  ],
+  "author": "Exigo996",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exigo996/Project01/issues"
+  },
+  "homepage": "https://github.com/Exigo996/Project01#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.0",
+    "babel-preset-react": "^6.24.1",
+    "uglify-js": "^3.0.18",
+    "uglify-js-middleware": "^1.0.2",
+    "webpack": "^3.0.0",
+    "webpack-dev-middleware": "^1.10.2",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
